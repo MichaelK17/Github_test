@@ -1,4 +1,4 @@
-Totorial: How to add a github repo and commit/push from VSCode
+Tutorial: How to add a github repo and commit/push from VSCode
 ---
 
 ## **Step 1: Prerequisites**
